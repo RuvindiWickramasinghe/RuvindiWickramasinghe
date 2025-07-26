@@ -44,5 +44,13 @@
 </div>
 
 ###
+<h2 align="left">🚀 My Projects</h2>
 
+<ul align="left">
+  <li><a href="https://github.com/RuvindiWickramasinghe/HathiApp">HATHI App – Service Marketplace (Flutter + Firebase)</a></li>
+  <li><a href="https://github.com/RuvindiWickramasinghe/immunifykid">ImmunifyLanka – Vaccination Management System (PHP + JS)</a></li>
+  <li><a href="https://github.com/orgs/Plymouth-University/teams/group_39">A fullstack developmen project )</a></li>
+  <Li><a href="https://github.com/PrabAsha2001/SoftwareDevToolsPhp.git">A university Accomadation system</a></Li>
+  
+</ul>
 
